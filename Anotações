@@ -1,3 +1,6 @@
 Vamos utilizar o VSCode no kali
 para executar o codigo python no kali, basta escrever
 python3 <nome_do_arquivo>
+
+comando para instalação de bibliotecas no python
+pip install <arquivo>
