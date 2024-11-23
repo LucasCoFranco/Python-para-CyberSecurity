@@ -3,4 +3,7 @@ para executar o codigo python no kali, basta escrever
 python3 <nome_do_arquivo>
 
 comando para instalação de bibliotecas no python
-pip install <arquivo>
+pip install <arquivo> (no caso instalamos o keyboard)
+
+um tipo de keyboard que não precisa ser instalado
+pynput
