@@ -10,3 +10,9 @@ pynput
 
 usuario debian
 meu_usuario
+
+definir função no python
+def teste():
+
+Para chamar a funcao 
+teste()
