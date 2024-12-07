@@ -16,3 +16,6 @@ def teste():
 
 Para chamar a funcao 
 teste()
+
+programa que transforma qualquer arquivo python em executavel
+pip install -U pyinstaller
